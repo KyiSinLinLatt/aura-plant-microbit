@@ -78,4 +78,4 @@ Several early approaches were tested and dropped based on real hardware constrai
 
 This report provides a full explanation of the design process, technical build, and evaluation, including figures showing the system interaction flow, electronics integration, and prototype iterations.
 
-[View Full Report](https://drive.google.com/drive/folders/142EfIvsBu84fBkeAfeV4Pj81D3fMBog9) 
+[View Full Report](https://drive.google.com/file/d/1FohxczB3JD0zPzxLgb448qz2xjSxQYsy/view?usp=sharing) 
